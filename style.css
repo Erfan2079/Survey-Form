@@ -1,0 +1,23 @@
+body {
+    background-color: #7171BA;
+    color: #f3f3f3;
+    font-family: Poppins, sans-serif;
+}
+
+p {
+    font-style: italic;
+}
+
+form {
+    background-color: #272746;
+    padding: 10px;
+}
+
+input {
+    box-sizing: border-box;
+    margin: 2px auto 15px auto;
+}
+
+label {
+    color: white;
+}
