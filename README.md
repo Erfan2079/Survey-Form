@@ -1,2 +1,3 @@
 # Survey-Form
 a simple survey form contain many types of html inputs
+which can remind how can we use simple forms & inputs to gather informations and inputs from the user...
